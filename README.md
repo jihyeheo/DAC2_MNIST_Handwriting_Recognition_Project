@@ -2,4 +2,6 @@
 
 
 ## Supervised Learning : MNIST 손글씨 분류 <br>
+
+member : 최연석, 허지혜 <br>
 goal : 간단한 모델 구현하고 , 정확도를 분석해 overfitting, underfitting을 보완한 더 나은 모델 구현 
